@@ -28,6 +28,7 @@ CSS3	Diseño visual y estilos
 JavaScript	Lógica, simulaciones e interactividad
 Google Fonts	Tipografía personalizada
 Estructura del Proyecto
+
 proyecto/
 │
 ├── index.html
@@ -41,6 +42,7 @@ proyecto/
 │
 └── img/
     └── 20260527_1245_image.png
+    
 Descripción de los Módulos
 1. Módulo de Fibonacci
 
