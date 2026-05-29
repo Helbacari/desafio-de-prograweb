@@ -1,5 +1,3 @@
-# 🚀 BTS Universe | Science & Finance
-
 Proyecto web interactivo inspirado en conceptos de **Fibonacci**, **Números Primos** y **Criptografía Moderna**, aplicado a ejemplos de ahorro financiero y seguridad digital.
 
 ---
